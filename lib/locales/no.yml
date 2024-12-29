@@ -1,0 +1,47 @@
+---
+no:
+  date:
+    abbr_day_names:
+    - S&oslash;n
+    - Man
+    - Tir
+    - Ons
+    - Tor
+    - Fre
+    - L&oslash;r
+    abbr_month_names:
+    - 
+    - Jan
+    - Feb
+    - Mar
+    - Apr
+    - Mai
+    - Jun
+    - Jul
+    - Aug
+    - Sep
+    - Okt
+    - Nov
+    - Des
+    day_names:
+    - S&oslash;ndag
+    - Mandag
+    - Tirsdag
+    - Onsdag
+    - Torsdag
+    - Fredag
+    - L&oslash;rdag
+    month_names:
+    - 
+    - Januar
+    - Februar
+    - Mars
+    - April
+    - Mai
+    - Juni
+    - Juli
+    - August
+    - September
+    - Oktober
+    - November
+    - Desember
