@@ -1,14 +1,14 @@
 ---
-no:
+nb:
   date:
     abbr_day_names:
-    - S&oslash;n
+    - Søn
     - Man
     - Tir
     - Ons
     - Tor
     - Fre
-    - L&oslash;r
+    - Lør
     abbr_month_names:
     - 
     - Jan
@@ -24,13 +24,13 @@ no:
     - Nov
     - Des
     day_names:
-    - S&oslash;ndag
+    - Søndag
     - Mandag
     - Tirsdag
     - Onsdag
     - Torsdag
     - Fredag
-    - L&oslash;rdag
+    - Lørdag
     month_names:
     - 
     - Januar
